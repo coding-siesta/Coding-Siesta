@@ -1,5 +1,4 @@
-BSIT Student
-Languages: C++, Java, Flutter, and Dart
+BSIT Student | Languages: C++, Java, Flutter, and Dart
 
 <!--
 **coding-siesta/Coding-Siesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
